@@ -1,2 +1,7 @@
 python -m pip install  numpy scipy matplotlib ipython jupyter pandas sympy nose -i https://pypi.douban.com/simple/
 
+anconda安装 https://blog.csdn.net/ITLearnHall/article/details/81708148
+
+服务器打开jupyter jupyter notebook --ip=10.168.11.98
+
+
